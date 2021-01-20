@@ -44,8 +44,7 @@ function App() {
         </div>
       </main>
     )
-  }
-  return (
+  }return (
     <main>
       <Tours tours={tours} removeTour={removeTour} />
     </main>
